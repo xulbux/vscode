@@ -957,7 +957,6 @@
     },
     {
       "scope": [
-        "meta.function",
         "meta.object-literal.key",
         "meta.objectliteral",
         "meta.selector",
@@ -1121,6 +1120,7 @@
         "entity.other.pseudo-element",
         "meta.at-rule.keyframes.header",
         "meta.fstring",
+        "meta.function",
         "meta.namespace.php entity.name.type.namespace.php",
         "meta.property-value",
         "meta.tag string.other.link.title.markdown",
