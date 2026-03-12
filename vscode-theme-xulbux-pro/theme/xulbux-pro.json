@@ -3,7 +3,9 @@
   "type": "dark",
   "name": "XulbuX PRO",
   "author": "XulbuX",
-  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
+  "maintainers": [
+    "XulbuX <xulbux.real@gmail.com>"
+  ],
   "semanticClass": "theme.xulbux-pro",
   "semanticHighlighting": true,
   "colors": {
@@ -790,7 +792,9 @@
         "string.quoted.docstring",
         "token.error-token"
       ],
-      "settings": { "foreground": "#66676A" }
+      "settings": {
+        "foreground": "#66676A"
+      }
     },
     {
       "scope": [
@@ -838,7 +842,9 @@
         "support.constant.handlebars",
         "support.function.delimiter.elm"
       ],
-      "settings": { "foreground": "#86878A" }
+      "settings": {
+        "foreground": "#86878A"
+      }
     },
     {
       "scope": [
@@ -848,9 +854,12 @@
         "constant.other.ellipsis",
         "entity.name.function.decorator",
         "keyword.other.phpdoc",
+        "meta.function.decorator",
         "meta"
       ],
-      "settings": { "foreground": "#B0B1B4" }
+      "settings": {
+        "foreground": "#B0B1B4"
+      }
     },
     {
       "scope": [
@@ -881,7 +890,9 @@
         "variable.parameter.function.language.special.cls.python",
         "variable.parameter.function.language.special.self.python"
       ],
-      "settings": { "foreground": "#C8C9CC" }
+      "settings": {
+        "foreground": "#C8C9CC"
+      }
     },
     {
       "scope": [
@@ -898,7 +909,9 @@
         "string.unquoted.label",
         "text"
       ],
-      "settings": { "foreground": "#EAEBEE" }
+      "settings": {
+        "foreground": "#EAEBEE"
+      }
     },
     {
       "scope": [
@@ -919,7 +932,9 @@
         "string.quoted.template punctuation.definition.string.begin",
         "string.quoted.template punctuation.definition.string.end"
       ],
-      "settings": { "foreground": "#FF6B75" }
+      "settings": {
+        "foreground": "#FF6B75"
+      }
     },
     {
       "scope": [
@@ -935,7 +950,9 @@
         "storage.type.function.arrow",
         "support.other.match"
       ],
-      "settings": { "foreground": "#FF828A" }
+      "settings": {
+        "foreground": "#FF828A"
+      }
     },
     {
       "scope": [
@@ -953,7 +970,9 @@
         "markup.deleted",
         "region.orangish"
       ],
-      "settings": { "foreground": "#FF8170" }
+      "settings": {
+        "foreground": "#FF8170"
+      }
     },
     {
       "scope": [
@@ -966,7 +985,9 @@
         "variable.other.property",
         "variable.parameter"
       ],
-      "settings": { "foreground": "#FF9D8F" }
+      "settings": {
+        "foreground": "#FF9D8F"
+      }
     },
     {
       "scope": [
@@ -996,7 +1017,9 @@
         "token.warn-token",
         "variable"
       ],
-      "settings": { "foreground": "#FFA970" }
+      "settings": {
+        "foreground": "#FFA970"
+      }
     },
     {
       "scope": [
@@ -1013,7 +1036,9 @@
         "source.jinja2 variable.other.jinja2",
         "support.variable.magic"
       ],
-      "settings": { "foreground": "#FFC499" }
+      "settings": {
+        "foreground": "#FFC499"
+      }
     },
     {
       "scope": [
@@ -1025,7 +1050,9 @@
         "support.class",
         "support.type"
       ],
-      "settings": { "foreground": "#85F29D" }
+      "settings": {
+        "foreground": "#85F29D"
+      }
     },
     {
       "scope": [
@@ -1050,7 +1077,9 @@
         "support.function",
         "variable.function"
       ],
-      "settings": { "foreground": "#6BFFF5" }
+      "settings": {
+        "foreground": "#6BFFF5"
+      }
     },
     {
       "scope": [
@@ -1067,7 +1096,9 @@
         "source.scss variable.scss",
         "support.type.property-name"
       ],
-      "settings": { "foreground": "#A8F8FF" }
+      "settings": {
+        "foreground": "#A8F8FF"
+      }
     },
     {
       "scope": [
@@ -1093,7 +1124,9 @@
         "text.html.markdown meta.paragraph.markdown meta.tag markup.underline.link",
         "token.info-token"
       ],
-      "settings": { "foreground": "#9098FF" }
+      "settings": {
+        "foreground": "#9098FF"
+      }
     },
     {
       "scope": [
@@ -1106,7 +1139,9 @@
         "string.unquoted.plain",
         "support.other.escape.special"
       ],
-      "settings": { "foreground": "#A6B6FF" }
+      "settings": {
+        "foreground": "#A6B6FF"
+      }
     },
     {
       "scope": [
@@ -1132,7 +1167,9 @@
         "string.other.link.title.markdown",
         "variable.parameter.keyframe-list"
       ],
-      "settings": { "foreground": "#C7CAFF" }
+      "settings": {
+        "foreground": "#C7CAFF"
+      }
     },
     {
       "scope": [
@@ -1151,11 +1188,20 @@
         "string.regexp punctuation.definition.string.begin",
         "string.regexp punctuation.definition.string.end"
       ],
-      "settings": { "foreground": "#B691FF" }
+      "settings": {
+        "foreground": "#B691FF"
+      }
     },
     {
-      "scope": ["constant.numeric", "log.debug", "region.pinkish", "token.debug-token"],
-      "settings": { "foreground": "#D87BFF" }
+      "scope": [
+        "constant.numeric",
+        "log.debug",
+        "region.pinkish",
+        "token.debug-token"
+      ],
+      "settings": {
+        "foreground": "#D87BFF"
+      }
     },
     {
       "scope": [
@@ -1168,7 +1214,9 @@
         "support.constant",
         "variable.other.constant"
       ],
-      "settings": { "foreground": "#D9A8FF" }
+      "settings": {
+        "foreground": "#D9A8FF"
+      }
     },
     {
       "scope": [
@@ -1176,11 +1224,20 @@
         "source.ruby variable.other.readwrite.class.ruby",
         "source.ruby variable.other.readwrite.instance.ruby"
       ],
-      "settings": { "foreground": "#FF6BA4" }
+      "settings": {
+        "foreground": "#FF6BA4"
+      }
     },
     {
-      "scope": ["strong", "markup.bold", "comment", "keyword.other.important"],
-      "settings": { "fontStyle": "bold" }
+      "scope": [
+        "strong",
+        "markup.bold",
+        "comment",
+        "keyword.other.important"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
     },
     {
       "scope": [
@@ -1199,15 +1256,27 @@
         "variable.parameter.function.language.special.cls.python",
         "variable.parameter.function.language.special.self.python"
       ],
-      "settings": { "fontStyle": "italic" }
+      "settings": {
+        "fontStyle": "italic"
+      }
     },
     {
-      "scope": ["underline", "markup.underline"],
-      "settings": { "fontStyle": "underline" }
+      "scope": [
+        "underline",
+        "markup.underline"
+      ],
+      "settings": {
+        "fontStyle": "underline"
+      }
     },
     {
-      "scope": ["strikethrough", "markup.strikethrough"],
-      "settings": { "fontStyle": "strikethrough" }
+      "scope": [
+        "strikethrough",
+        "markup.strikethrough"
+      ],
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
     },
     {
       "scope": [
@@ -1216,7 +1285,9 @@
         "markup.bold markup.italic",
         "markup.italic markup.bold"
       ],
-      "settings": { "fontStyle": "bold italic" }
+      "settings": {
+        "fontStyle": "bold italic"
+      }
     },
     {
       "scope": [
@@ -1225,7 +1296,9 @@
         "markup.bold markup.underline",
         "markup.underline markup.bold"
       ],
-      "settings": { "fontStyle": "bold underline" }
+      "settings": {
+        "fontStyle": "bold underline"
+      }
     },
     {
       "scope": [
@@ -1234,7 +1307,9 @@
         "markup.italic markup.underline",
         "markup.underline markup.italic"
       ],
-      "settings": { "fontStyle": "italic underline" }
+      "settings": {
+        "fontStyle": "italic underline"
+      }
     },
     {
       "scope": [
@@ -1243,7 +1318,9 @@
         "markup.bold markup.strikethrough",
         "markup.strikethrough markup.bold"
       ],
-      "settings": { "fontStyle": "bold strikethrough" }
+      "settings": {
+        "fontStyle": "bold strikethrough"
+      }
     },
     {
       "scope": [
@@ -1252,7 +1329,9 @@
         "markup.italic markup.strikethrough",
         "markup.strikethrough markup.italic"
       ],
-      "settings": { "fontStyle": "italic strikethrough" }
+      "settings": {
+        "fontStyle": "italic strikethrough"
+      }
     }
   ]
 }
