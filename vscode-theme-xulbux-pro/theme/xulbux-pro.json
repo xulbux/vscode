@@ -3,9 +3,7 @@
   "type": "dark",
   "name": "XulbuX PRO",
   "author": "XulbuX",
-  "maintainers": [
-    "XulbuX <xulbux.real@gmail.com>"
-  ],
+  "maintainers": ["XulbuX <xulbux.real@gmail.com>"],
   "semanticClass": "theme.xulbux-pro",
   "semanticHighlighting": true,
   "colors": {
@@ -1193,12 +1191,7 @@
       }
     },
     {
-      "scope": [
-        "constant.numeric",
-        "log.debug",
-        "region.pinkish",
-        "token.debug-token"
-      ],
+      "scope": ["constant.numeric", "log.debug", "region.pinkish", "token.debug-token"],
       "settings": {
         "foreground": "#D87BFF"
       }
@@ -1229,12 +1222,7 @@
       }
     },
     {
-      "scope": [
-        "strong",
-        "markup.bold",
-        "comment",
-        "keyword.other.important"
-      ],
+      "scope": ["strong", "markup.bold", "comment", "keyword.other.important"],
       "settings": {
         "fontStyle": "bold"
       }
@@ -1261,19 +1249,13 @@
       }
     },
     {
-      "scope": [
-        "underline",
-        "markup.underline"
-      ],
+      "scope": ["underline", "markup.underline"],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
-      "scope": [
-        "strikethrough",
-        "markup.strikethrough"
-      ],
+      "scope": ["strikethrough", "markup.strikethrough"],
       "settings": {
         "fontStyle": "strikethrough"
       }
