@@ -1,5 +1,5 @@
-# Visual Studio Code
-This repository contains various extensions (*extension packs and themes*) for VisualStudioCode.
+# vscode
+This repository contains various extensions (*extensions and themes*) for VS Code.
 
 ## Extensions
 * 🎨 <a href="#themexulbuxpro" title="scroll to Theme XulbuX PRO">Theme XulbuX PRO</a> | **<a href="./vscode-theme-xulbux-pro" title="open theme-xulbux-pro directory">open</a>**
