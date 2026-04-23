@@ -8,7 +8,7 @@ This repository contains various extensions (*extension packs and themes*) for V
 ## What do those extensions?
 
 ### Theme XulbuX PRO
-A theme extension, including two dark-themes, which mainly focus on clear syntax-highlighting and a good user experience.
+A theme pack, including three dark-themes, which mainly focus on clear syntax-highlighting and a good user experience.
 To learn more about this extension, see the [`README.md`](./vscode-theme-xulbux-pro/README.md).
 
 ### XulbuX Extensions Pack
