@@ -1,8 +1,8 @@
 <span id="top" />
 
-# <span style="color:#00EDDF">Theme</span> <span style="color:#9098FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/xulbux/vscode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/xulbux/vscode/blob/main/vscode-theme-xulbux-pro/icon.png?raw=true"></a>
+# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/xulbux/vscode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/xulbux/vscode/blob/main/vscode-theme-xulbux-pro/icon.png?raw=true"></a>
 
-### <span style="color:#FF9E6A">**100% FREE**</span> theme pack which focuses on <span style="color:#B691FF">**CLEAR SYNTAX**</span> and <span style="color:#B691FF">**BEAUTIFUL COLORS**</span>.
+### **100% free** theme pack which focuses on <span style="color:#AB8FFF">**clear syntax**</span> and <span style="color:#AB8FFF">**beautiful colors**</span>.
 
 This Visual Studio Code extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
 
@@ -56,7 +56,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
   </thead>
   <tbody>
     <tr>
-      <td align="left"><a href="#preview-xulbux-pro"><strong>XulbuX PRO</strong></a></td>
+      <td align="left"><strong>XulbuX PRO</strong></td>
       <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF6B75?style=for-the-badge">
@@ -73,7 +73,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
       <td align="left">✅ Supported</td>
     </tr>
     <tr>
-      <td align="left"><a href="#preview-xulbux-pro-legacy"><strong>XulbuX PRO Legacy</strong></td>
+      <td align="left"><strong>XulbuX PRO Legacy</strong></td>
       <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FF7069?style=for-the-badge">
@@ -90,7 +90,7 @@ Please consider leaving a review on the [**Visual Studio Marketplace**](https://
       <td align="left">❌ Not Supported</td>
     </tr>
     <tr>
-      <td align="left"><a href="#preview-xulbux-vaporwave"><strong>XulbuX VaporWave</strong></a></td>
+      <td align="left"><strong>XulbuX VaporWave</strong></td>
       <td align="left">
         &nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/%23-FCFDFF?style=for-the-badge">
