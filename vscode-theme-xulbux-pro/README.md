@@ -1,10 +1,10 @@
 <span id="top" />
 
-# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/xulbux/vscode/tree/main/vscode-theme-xulbux-pro#top"><img align="right" height="33" src="https://github.com/xulbux/vscode/blob/main/vscode-theme-xulbux-pro/icon.png?raw=true"></a>
+# <span style="color:#2DE0D8">Theme</span> <span style="color:#8085FF"><b>XulbuX</b></span> <span style="color:#FF6B75">PRO</span> <a href="https://github.com/xulbux/vscode/tree/main/vscode-theme-xulbux-pro"><img align="right" height="33" src="https://github.com/xulbux/vscode/blob/main/vscode-theme-xulbux-pro/icon.png?raw=true"></a>
 
-### **100% free** theme pack which focuses on <span style="color:#AB8FFF">**clear syntax**</span> and <span style="color:#AB8FFF">**beautiful colors**</span>.
+### Theme pack which focuses on <span style="color:#AB8FFF">**clear syntax**</span> and <span style="color:#AB8FFF">**beautiful colors**</span>.
 
-This Visual Studio Code extension contains three themes, which all try to make VSCode look good and provide very clear syntax highlighting.
+This VS Code extension contains three themes, which all try to make the IDE look good and provide very clear syntax highlighting.
 
 > <br>
 > 🎨 To get a better feeling of how the themes look on the code, continue at the <a href="#previews"><strong>theme previews</strong></a>.
