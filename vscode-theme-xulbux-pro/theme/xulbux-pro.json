@@ -1010,8 +1010,7 @@
         "meta.attribute",
         "meta.property-list.css variable.other",
         "source.git-show meta.diff.range.unified",
-        "source.jinja2 variable.other.jinja2",
-        "support.variable.magic"
+        "source.jinja2 variable.other.jinja2"
       ],
       "settings": { "foreground": "#FFC499" }
     },
@@ -1177,6 +1176,10 @@
         "source.ruby variable.other.readwrite.instance.ruby"
       ],
       "settings": { "foreground": "#FF6BA4" }
+    },
+    {
+      "scope": ["support.variable.magic"],
+      "settings": { "foreground": "#FF96C6" }
     },
     {
       "scope": ["strong", "markup.bold", "comment", "keyword.other.important"],
