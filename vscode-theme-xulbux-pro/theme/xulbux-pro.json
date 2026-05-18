@@ -1019,6 +1019,7 @@
         "entity.name.class",
         "entity.name.type",
         "entity.other.alias",
+        "keyword.other.type",
         "region.greenish",
         "source.vue support.class.component",
         "support.class",
@@ -1179,7 +1180,7 @@
     },
     {
       "scope": ["support.variable.magic"],
-      "settings": { "foreground": "#FF96C6" }
+      "settings": { "foreground": "#FFA8D0" }
     },
     {
       "scope": ["strong", "markup.bold", "comment", "keyword.other.important"],
@@ -1195,6 +1196,7 @@
         "entity.other.inherited-class",
         "entity.other.pseudo-class",
         "entity.other.pseudo-element",
+        "keyword.other.type",
         "storage.modifier",
         "storage.type",
         "support.type",
